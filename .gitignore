@@ -1,0 +1,8 @@
+.DS_Store
+library
+node_modules
+thrift
+gambarunyu/
+./renew.js
+list.txt
+line.thrift
